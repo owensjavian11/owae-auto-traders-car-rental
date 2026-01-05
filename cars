@@ -1,0 +1,7 @@
+car-website/
+│── index.html        (customer site)
+│── admin.html        (admin dashboard)
+│── style.css
+│── admin.css
+│── script.js
+│── admin.js
